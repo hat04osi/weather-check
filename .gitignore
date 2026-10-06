@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+custom_locations.json
+.DS_Store
